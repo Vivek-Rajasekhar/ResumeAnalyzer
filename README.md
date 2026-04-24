@@ -15,11 +15,8 @@ This is a **single-page web app** built with Streamlit (not a CLI, not a backend
 
 ## Visuals
 
-Add a screenshot or GIF here once you capture the UI:
+[Watch the Demo Video](https://drive.google.com/file/d/1xlOKZvszi9XD9PB9TsKZAdYwLCRIX_R7/view?usp=sharing)
 
-```md
-![App Screenshot](docs/screenshot.png)
-```
 
 ## Key Features
 
